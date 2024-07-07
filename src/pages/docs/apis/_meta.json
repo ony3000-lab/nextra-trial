@@ -1,0 +1,5 @@
+{
+  "button": "<Button />",
+  "circular-progress": "<CircularProgress />",
+  "icon-button": "<IconButton />"
+}
